@@ -54,6 +54,7 @@
 /taoTestLinear/
 /tao*
 /composer.lock
+/setup.json
 # Created by https://www.gitignore.io
 
 ### OSX ###
